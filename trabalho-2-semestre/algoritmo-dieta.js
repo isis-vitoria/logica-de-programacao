@@ -1,6 +1,3 @@
-// Para executar, precisa de node instalado, execute no terminal: `node algoritmo-dieta.js` na raíz do projeto 
-// Para instalar a lib readline-sync > npm install readline-sync
-
 // este comando implementa uma biblioteca js para captar o dado inserido no console (readline)
 const readline = require('readline-sync');
 
